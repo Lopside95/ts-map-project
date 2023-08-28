@@ -142,13 +142,13 @@
       this[globalName] = mainExports;
     }
   }
-})({"h6EZr":[function(require,module,exports) {
+})({"fThiS":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
-module.bundle.HMR_BUNDLE_ID = "42ebc2eba8a899ae";
+module.bundle.HMR_BUNDLE_ID = "5c1b77e3b71e74eb";
 "use strict";
 /* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
@@ -573,14 +573,14 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
     });
 }
 
-},{}],"8inQh":[function(require,module,exports) {
+},{}],"h7u1C":[function(require,module,exports) {
 /// <reference types="@types/google.maps" />
 // import { User } from "./User";
 // import { Company } from "./Company";
 var _customMap = require("./CustomMap");
 new (0, _customMap.CustomMap)("map");
 
-},{"./CustomMap":"5Bnvm"}],"5Bnvm":[function(require,module,exports) {
+},{"./CustomMap":"4qzxZ"}],"4qzxZ":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "CustomMap", ()=>CustomMap);
@@ -605,7 +605,7 @@ class CustomMap {
     }
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"hB1uZ"}],"hB1uZ":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"7lTbh"}],"7lTbh":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -635,6 +635,6 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}]},["h6EZr","8inQh"], "8inQh", "parcelRequire94c2")
+},{}]},["fThiS","h7u1C"], "h7u1C", "parcelRequire57d4")
 
-//# sourceMappingURL=index.a8a899ae.js.map
+//# sourceMappingURL=index.b71e74eb.js.map
